@@ -8,4 +8,3 @@ penambahan
 
 tambahan branch test
 
-bikin konflik 
